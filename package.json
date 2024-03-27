@@ -1,0 +1,15 @@
+{
+  "name": "bakend_server",
+  "version": "1.0.0",
+  "description": "mock server app",
+  "main": "server.js",
+  "scripts": {
+    "start":"node server.js"
+  },
+  "keywords": [],
+  "author": "Vikas Dongarwar",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}
